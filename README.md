@@ -1,4 +1,4 @@
-# PEC3_Manovich_Reloaded: La hibridació Digital
+# PAC3_Manovich_Reloaded: La hibridació Digital
 Autor: Xavier Nereu
 
 Data: 26/05/2024
