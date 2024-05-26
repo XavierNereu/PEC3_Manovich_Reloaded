@@ -60,4 +60,14 @@ En resum, podem afirmar que la hibridació dels mitjans digitals amb el programa
 
  [*The Fall of the Rebel Angels*](https://en.wikipedia.org/wiki/The_Fall_of_the_Rebel_Angels). Wikipedia.org
 
-  [*Remediació, multimèdia i hibridació dels mitjans*](http://multimedia.uoc.edu/blogs/fem/remediacio-multimedia-i-hibridacio-dels-mitjans/). Aldell,Ferran. Multimedia.uoc.edu/
+[*Remediació, multimèdia i hibridació dels mitjans*](http://multimedia.uoc.edu/blogs/fem/remediacio-multimedia-i-hibridacio-dels-mitjans/). Aldell,Ferran. Multimedia.uoc.edu/
+
+Totes les imatges usades en aquest aasaig es troben sota llicència Creative Commons [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ca). En cas contrari s'ha indicat la font original.
+
+Imgur: Il·lustració (https://i.imgur.com/00B87Hs.jpeg) original de l'autor, Xavier Nereu CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>.
+
+Wikimedia: Imatge The Sphere (file:The Las Vegas Sphere, Nevada (53349695459).jpg) CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>.
+
+Giphy: Gifs  CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>.
+
+Surface: Gif  <https://images.surfacemag.com/app/uploads/2023/09/11174233/refik-anadol-machine-hallucinations-las-vegas-sphere-03.gif>. www.surfacemag.com/
