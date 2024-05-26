@@ -27,7 +27,6 @@ Data: 26/05/2024
   </tr>
 </table>
 
-
 # The Sphere
 
 <table>
@@ -44,3 +43,11 @@ Data: 26/05/2024
 </p></td>
   </tr>
 </table>
+
+# Conclusió
+
+
+En resum, podem afirmar que la hibridació dels mitjans digitals amb el programari com a fil conductor, ens obren la porta a una nova era d'experiències on no només podem gaudir de diferents mitjans en un mateix entorn, sinó que aquests interactuen directament amb la nostra realitat física fent-nos partícips d'aquesta hibridació digital.
+
+
+## Bibliografia i Llicències
