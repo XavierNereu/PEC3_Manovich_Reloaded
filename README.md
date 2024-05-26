@@ -47,7 +47,17 @@ Data: 26/05/2024
 # Conclusió
 
 
-En resum, podem afirmar que la hibridació dels mitjans digitals amb el programari com a fil conductor, ens obren la porta a una nova era d'experiències on no només podem gaudir de diferents mitjans en un mateix entorn, sinó que aquests interactuen directament amb la nostra realitat física fent-nos partícips d'aquesta hibridació digital.
+En resum, podem afirmar que la hibridació dels mitjans digitals amb el PC i el programari com a fil conductor.
+
+
+Com diu Manovich:
+
+
+
+> *"**El nou mitjà, és el metamitjà del PC digital.**"* (Manovich,Lev, El programari pren el control 2013)
+
+
+ Un metamitjà que ens obre la porta a una nova era d'experiències on no només podem gaudir de diferents formats dins un mateix entorn, sinó que aquests interactuen directament amb la nostra realitat física fent-nos partícips d'aquesta hibridació digital.
 
 
 ## Bibliografia i Llicències
