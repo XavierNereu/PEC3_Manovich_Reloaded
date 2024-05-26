@@ -19,7 +19,7 @@ El primer cas que exposarem en aquest petit assaig, ***Google Arts and Culture**
 
 **Visiteu-la i descobriu una nova manera de conèixer l'art i la cultura!**
 
-[Llegir més](https://g.co/arts/CxeL29RcR7SYXuGs9)
+[Llegir més](https://github.com/XavierNereu/PEC3_Manovich_Reloaded/blob/main/Google%20Arts%20and%20Culture.md)
 </p></td>
     </td>
   </tr>
