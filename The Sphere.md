@@ -1,6 +1,6 @@
 ## The Sphere
 
-<img src="https://i.imgur.com/FTRRdGV.jpeg">
+<img src="https://i.imgur.com/acmZITH.jpeg">
 
 Fins ara, hem tractat la hibridació com una comunicació entre l'usuari i els diferents mitjans multimèdia fusionats en un mateix entorn digital, gaudint d'aquestes funcionalitats sense necessitat de canviar o sortir de l'aplicació on ens trobem. Però, podem anar fins i tot un pas més enllà en la interacció amb aquests mitjans?
 El cas que tractarem tot seguit ens endinsa en una nova dimensió virtual, situant l'usuari en el centre d'aquesta equació.
