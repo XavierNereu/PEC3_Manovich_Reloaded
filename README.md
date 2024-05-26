@@ -1,6 +1,10 @@
 # PEC3_Manovich_Reloaded
+
+<img src="https://i.imgur.com/aosmXyE.jpeg">
+
+
 Imagineu poder interactuar amb obres d'artistes del Renaixement,passejar entre dinosaures, explorar les profunditats marines o fins i tot embarcar-vos en un viatge dins un transbordador espacial?
-El primer cas que exposarem en aquest petit assaig, ***Google Art and Culture***, ens ofereix l'experiència més propera a totes aquestes propostes a través dels mitjans digitals, amb el programari com a vehicle principal per endinsar-nos a un món virtual on la hibridació d'aquests es fa evident en cada una de les diferents activitats que ens planteja la plataforma.
+El primer cas que exposarem en aquest petit assaig, <span style="color:blue">**Google Art and Culture**</span>, ens ofereix l'experiència més propera a totes aquestes propostes a través dels mitjans digitals, amb el programari com a vehicle principal per endinsar-nos a un món virtual on la hibridació d'aquests es fa evident en cada una de les diferents activitats que ens planteja la plataforma.
 ***Lev Manovich***, en el seu llibre ***"El programari pren el control"***, fa èmfasi en com la interactivitat és una de les característiques principals de la hibridació, i el cas que ens ocupa, és un clar exemple d'aquesta interacció tecnològica. ***Google Art and Culture*** neix l'any 2011 amb l'objectiu d'acostar l'art al gran públic, fet que democratitza l'accés a la cultura usant només una connexió a la xarxa.
 Segons el concepte d'hibridació dels mitjans digitals exposat per **Manovich**, els diferents elements multimèdia es fusionen
 per crear una nova experiència, i és precisament aquesta "nova experiència" la que podem trobar i gaudir quan explorem detalladament les diferents possibilitats que ens proporciona l'aplicació de Google. Un exemple destacat d'aquesta interacció, és el vídeo creat usant realitat virtual ***"The Fall of The Rebel Angels"*** de ***Pieter Brueghel*** 1562, i que ens permet moure'ns dins l'obra de l'artista.
