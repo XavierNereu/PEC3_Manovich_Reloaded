@@ -1,6 +1,6 @@
 # PEC3_Manovich_Reloaded
 
-<img src="https://i.imgur.com/aosmXyE.jpeg">
+<img src="https://i.imgur.com/kj7jRpE.jpg">
 
 
 Imagineu poder interactuar amb obres d'artistes del Renaixement,passejar entre dinosaures, explorar les profunditats marines o fins i tot embarcar-vos en un viatge dins un transbordador espacial?
