@@ -1,12 +1,8 @@
-# LA HIBRIDACIÓ DELS MITJANS DIGITALS
-## PEC3_Manovich_Reloaded. 
+# PEC3_Manovich_Reloaded: La hibridació Digital
+## Introducció 
 
-## Google Arts and Culture
 
-<img src="https://i.imgur.com/00B87Hs.jpeg">
-
-Imagineu poder interactuar amb obres d'artistes del Renaixement,passejar entre dinosaures, explorar les profunditats marines o fins i tot embarcar-vos en un viatge dins un transbordador espacial?
-El primer cas que exposarem en aquest petit assaig, ***Google Arts and Culture***, ens ofereix l'experiència més propera a totes aquestes propostes a través dels mitjans digitals, amb el programari com a vehicle principal per endinsar-nos a un món virtual on la hibridació d'aquests es fa evident en cada una de les diferents activitats que ens planteja la plataforma.
+Lev Manovich al seu llibre "El programari pren el control" teoritza sobre la importància dels mitjans digitals i el desenvolupament que aquests han tingut des de la seva aparició, i ho fa centrant-se especialment en la rellevància que té el programari en aquest procés d'evolució, que ens endinsa en una nova era on la realitat física i la realitat virtual conviuen cada cop de manera més profunda. El llenguatge universal que suposa el programari en l'actualitat, el col·loquen com una peça clau en aquesta evolució dels mitjans i de la cultura en general, i és aquí on Manovich fa èmfasi guiant-nos pel recorregut que segueix aquesta evolució comunicativa. Un dels principals temes que tracta és la hibridació, que implica principalment la fusió de diferents mitjans multimèdia en un mateix entorn creant una nova experiència enriquida. Aquest concepte d'hibridació serà el fil conductor del següent assaig, en el qual tractarem dos casos contemporanis a través de les ulleres de Manovich.
 
 # Google Arts and Culture 
 
