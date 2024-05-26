@@ -51,3 +51,7 @@ En resum, podem afirmar que la hibridació dels mitjans digitals amb el programa
 
 
 ## Bibliografia i Llicències
+
+ [*El Software toma el mando*]( https://cv.uoc.edu/webapps/cas/login?service=https%3A%2F%2Fcv.uoc.edu%2Ftren%2Ftrenacc%3Fmodul%3DDIMAX.DINAROJ%2Fdimaxweb.Pagina%26pantalla%3DHISTORICS%26node%3D73486%26entidad_gestora%3DDEF%26entorn_gestio%3DPV20232%26idioma%3DCAT%26lang%3Dca%26pantalla_his%3DXML_ARBRE_RECURSOS%26cami%3D%26p_entrada%3DPV). Barcelona: Editorial UOC. 
+
+ [*Alan Kay’s Universal Media Machine*](http://manovich.net/). Manovich.net
