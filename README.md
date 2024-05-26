@@ -1,4 +1,5 @@
-# PEC3_Manovich_Reloaded
+# LA HIBRIDACIÓ DELS MITJANS DIGITALS
+## PEC3_Manovich_Reloaded. 
 
 ## Google Arts and Culture
 
@@ -24,6 +25,25 @@ El primer cas que exposarem en aquest petit assaig, ***Google Arts and Culture**
     </td>
   </tr>
 </table>
+
+
+# The Sphere
+
+<table>
+  <tr>
+    <td>
+      <img src="https://images.surfacemag.com/app/uploads/2023/09/11174233/refik-anadol-machine-hallucinations-las-vegas-sphere-03.gif">
+    </td>
+    <td style="vertical-align: top; padding-left: 40px;">
+      <p>El segon cas que tractarem és un dels més recents, es tracta ade The Sphere (L'Esfera) inaugurada el 29 de setembre de 2023. Una impressionant infraestructura situada a Nevada (Les Vegas), que consta de més de cinquanta milions de leds evolvents i pretén canviar el concepte d'entreteniment digital. Una construcció que ofereix una experiència immersiva 360° on el visitant forma part de la interactivitat en tot moment i fins i tot és rebut per agents virtuals i robots controlats per intel·ligència artificial.
+
+**Benvinguts a l'Esfera!**
+
+[Llegir més](https://github.com/XavierNereu/PEC3_Manovich_Reloaded/blob/main/Google%20Arts%20and%20Culture.md)
+</p></td>
+  </tr>
+</table>
+
 ***Lev Manovich***, en el seu llibre ***"El programari pren el control"***, fa èmfasi en com la interactivitat és una de les característiques principals de la hibridació, i el cas que ens ocupa, és un clar exemple d'aquesta interacció tecnològica. ***Google Arts and Culture*** neix l'any 2011 amb l'objectiu d'acostar l'art al gran públic, fet que democratitza l'accés a la cultura usant només una connexió a la xarxa.
 Segons el concepte d'hibridació dels mitjans digitals exposat per **Manovich**, els diferents elements multimèdia es fusionen
 per crear una nova experiència, i és precisament aquesta "nova experiència" la que podem trobar i gaudir quan explorem detalladament les diferents possibilitats que ens proporciona l'aplicació de Google. Un exemple destacat d'aquesta interacció, és el vídeo creat usant realitat virtual ***"The Fall of The Rebel Angels"*** de ***Pieter Brueghel 1562***, i que ens permet moure'ns dins l'obra de l'artista.
