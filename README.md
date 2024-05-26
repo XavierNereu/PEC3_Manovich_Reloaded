@@ -39,7 +39,7 @@ Per aconseguir aquesta interconnexió entre l'entorn físic i el mitjà digital,
 
 **En aquest vídeo, podem veure l'impressionant instal·lació:**
 
-[Endinsat a l'Esfera](https://www.youtube.com/watch?v=lGmbZdH-eGk)
+[Endinsat a l'Esfera](https://www.youtube.com/watch?v=GoVBUScCyTI)
 
 D'aquesta manera, la fusió de tots aquests mitjans dins un mateix entorn, genera una interactivitat permanent entre dues realitats, la física i la virtual.
 ***The Sphere*** va ser inaugurada l'any ***2023***, principalment pensada per acollir concerts en directe incloent l'experiència multimèdia entre els usuaris.
