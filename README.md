@@ -39,7 +39,7 @@ El primer cas que exposarem en aquest petit assaig, ***Google Arts and Culture**
 
 **Benvinguts a l'Esfera!**
 
-[Llegir més](https://github.com/XavierNereu/PEC3_Manovich_Reloaded/blob/main/Google%20Arts%20and%20Culture.md)
+[Llegir més](https://github.com/XavierNereu/PEC3_Manovich_Reloaded/blob/main/The%20Sphere.md)
 </p></td>
   </tr>
 </table>
