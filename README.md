@@ -71,6 +71,8 @@ Com diu Manovich:
  [*Google Arts and Cultura*](https://ca.wikipedia.org/wiki/Google_Arts_%26_Culture). Wikipedia.org
 
  [*The Fall of the Rebel Angels*](https://en.wikipedia.org/wiki/The_Fall_of_the_Rebel_Angels). Wikipedia.org
+ 
+ [*El món digital segons Manovich*](https://www.huffingtonpost.es/entry/el-mundo-digital-segun-lev-manovich_es_5e2b365fc5b6d6767fd3a1f3.html). Huffingtonpost.es
 
 [*Remediació, multimèdia i hibridació dels mitjans*](http://multimedia.uoc.edu/blogs/fem/remediacio-multimedia-i-hibridacio-dels-mitjans/). Aldell,Ferran. Multimedia.uoc.edu/
 
