@@ -3,6 +3,8 @@ Autor: Xavier Nereu
 
 Data: 26/05/2024
 
+<img src="https://i.imgur.com/LNNCcT2.jpeg">
+
 
 # Introducció 
 
@@ -47,7 +49,7 @@ Data: 26/05/2024
 # Conclusió
 
 
-En resum, podem afirmar que la hibridació dels mitjans digitals amb el PC i el programari com a fil conductor.
+En resum, podem afirmar que la hibridació dels mitjans digitals amb el PC i el programari com a fil conductor a canviat la manera d'entendre com ens comuniquem amb el nostre entorn a través del món digital.
 
 
 Com diu Manovich:
@@ -77,6 +79,8 @@ Totes les imatges usades en aquest aasaig es troben sota llicència Creative Com
 Imgur: Il·lustració (https://i.imgur.com/00B87Hs.jpeg) original de l'autor, Xavier Nereu CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>.
 
 Wikimedia: Imatge The Sphere (file:The Las Vegas Sphere, Nevada (53349695459).jpg) CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>.
+
+Wikimedia: Irbot (https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/IRBOR_RPA.png/640px-IRBOR_RPA.png) CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>.
 
 Giphy: Gifs  CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>.
 
