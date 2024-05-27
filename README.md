@@ -35,7 +35,7 @@ Data: 26/05/2024
       <img src="https://images.surfacemag.com/app/uploads/2023/09/11174233/refik-anadol-machine-hallucinations-las-vegas-sphere-03.gif">
     </td>
     <td style="vertical-align: top; padding-left: 40px;">
-      <p>El segon cas que tractarem és un dels més recents, es tracta ade The Sphere (L'Esfera) inaugurada el 29 de setembre de 2023. Una impressionant infraestructura situada a Nevada (Les Vegas), que consta de més de cinquanta milions de leds evolvents i pretén canviar el concepte d'entreteniment digital. Una construcció que ofereix una experiència immersiva 360° on el visitant forma part de la interactivitat en tot moment i fins i tot és rebut per agents virtuals i robots controlats per intel·ligència artificial.
+      <p>El segon cas que tractarem és un dels més recents, es tracta de The Sphere (L'Esfera) inaugurada el 29 de setembre de 2023. Una impressionant infraestructura situada a Nevada (Les Vegas), que consta de més de cinquanta milions de leds evolvents i pretén canviar el concepte d'entreteniment digital. Una construcció que ofereix una experiència immersiva 360° on el visitant forma part de la interactivitat en tot moment i fins i tot és rebut per agents virtuals i robots controlats per intel·ligència artificial.
 
 **Benvinguts a l'Esfera!**
 
